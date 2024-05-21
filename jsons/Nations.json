@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "The Sautekh Dynasty",
+		"leaderName": "Imotekh The Stormlord",
+		"adjective": ["Sautek"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Imotekh, my Phaeron, we have arried at this floating rock. As ruler of a dynsasty that has etched themselves into the Easten Fringe, it is your right to reclaim the galaxy for yourself. All your empire from a civil upon your now throne world Mandragora.",
+		"startIntroPart2": "Great Stormlord, master stratagiest of warfare, how do you seek to reclaim your galaxy?. How will you reforge this world?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Order. Unity. Obedience. We taught the galaxy these things long ago, and we will do so again.",
+		"attacked": "Bold, but foolish.",
+		"defeated": "Our people are awakening, and soon all of the galaxy shall be ours once more.",
+		"introduction": "Mere ants.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "What.",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralNo": ["Denied.","No.","I refuse."],
+		"neutralYes": ["Very good.","Yes.","Mm."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "What do you want.",
+		"hateLetsHearIt": ["Speak!","Fine, speak.","Go on."],
+		"hateNo": ["Fool.","Enough.","I beg your pardon?"],
+		"hateYes": ["Fine.","Adaquate.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Next time, do not have such faith in your negotiation skills.",
+		"tradeRequest": "Here.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [132, 136, 138],
+		"innerColor": [11, 84, 19],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Mandragora","Avarris","Cano'var","Davatas","Ghor","Girdrim","Hypnoth","Jorokh","Medusa VII",
+			"Novokor","Rithcarin","Schrodinger VII","Somonor","Vanur","Sarlock","Akator","Akynatos","Bardic","Bekyra",
+			"Berien","Carnac","Carrion Deep","Chandrax II","Doahht","Drazak","Fordris","Iori Delta Trove","Ixya","Kinbriar",
+			"Maedrax","Morrigar","Morrigor","Nagathar","Naogeddon","Nervkor"]
 	}
 ]
