@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"name": "Overlord",
+		"unitType": "Sword",
+		"uniqueTo": "Sautekh",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
 		"cost": 500,
 		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
+		"uniques": 
 		"attackSound": "phasers"
 	}
 ]
