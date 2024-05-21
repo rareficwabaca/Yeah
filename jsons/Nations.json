@@ -29,7 +29,8 @@
 
 		"outerColor": [132, 136, 138],
 		"innerColor": [11, 84, 19],
-		"unique": "MANIFEST_DESTINY",
+		"uniqueName": "Relentless Advance",
+		"uniques": ["[+1] Movement <for [{Military}] units>",
 		"cities": ["Mandragora","Avarris","Cano'var","Davatas","Ghor","Girdrim","Hypnoth","Jorokh","Medusa VII",
 			"Novokor","Rithcarin","Schrodinger VII","Somonor","Vanur","Sarlock","Akator","Akynatos","Bardic","Bekyra",
 			"Berien","Carnac","Carrion Deep","Chandrax II","Doahht","Drazak","Fordris","Iori Delta Trove","Ixya","Kinbriar",
