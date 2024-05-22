@@ -1,15 +1,15 @@
 [
-	{
-		"name": "Overlord",
-		"unitType": "Sword",
-		"uniqueTo": "Sautekh",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"promotions": ["Logistics","Accuracy I"],
-		"uniques": 
-		"attackSound": "phasers"
-	}
+	        "unitName": "Overlord",
+		"unitType": "Civilian",
+		"uniqueTo": "Mongolia",
+		"replaces": "Great General",
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+			"All adjacent units heal [+15] HP when healing", "[+15] HP when healing",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 5
+	},
 ]
